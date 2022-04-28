@@ -25,10 +25,10 @@ function App() {
 
   const [data, setData] = useState([
     {
-      'more4.5': 12,
-      'more5.5': 10,
-      'more6.5': 6,
-      'more7': 4,
+      'more4.5': 9,
+      'more5.5': 8,
+      'more6.5': 4,
+      'more7': 3,
       'more7.5': 1.5,
       'more8': 1
     }
@@ -47,10 +47,10 @@ function App() {
             onClick={() => {
               setData([
                 {
-                  'more4.5': 12,
-                  'more5.5': 10,
-                  'more6.5': 7,
-                  'more7': 4,
+                  'more4.5': 9,
+                  'more5.5': 8,
+                  'more6.5': 4,
+                  'more7': 3,
                   'more7.5': 1.5,
                   'more8': 1
                 }
